@@ -10,11 +10,11 @@ body, html {
 }
 
 .message {
-    display: inline-block;
-    color: #fff;
+    color: white;
     font-family: "Lucida Grande", verdana, sans-serif;
     font-size: 12px;
     line-height: 32px;
     border-radius: 10.56px;
     padding: 0 16px;
+    text-align: center;
 }
