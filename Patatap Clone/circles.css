@@ -9,10 +9,11 @@ body, html {
 	margin: 0;
 }
 
-.message {
+p {
     color: white;
     font-family: "Lucida Grande", verdana, sans-serif;
-    font-size: 12px;
+    font-size: 14px;
+    font-weight:bold;
     line-height: 32px;
     border-radius: 10.56px;
     padding: 0 16px;
