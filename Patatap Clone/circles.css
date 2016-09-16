@@ -16,6 +16,7 @@ p {
     font-size: 32px;
     font-weight:bold;
     line-height: 32px;
-    padding: 0 16px;
+    border-radius: 15%;
+    padding: 0 4px;
     text-align: center;
 }
